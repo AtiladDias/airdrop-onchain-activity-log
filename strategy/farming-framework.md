@@ -46,7 +46,7 @@ Focar em:
 - Protocolos novos
 - Ecossistemas em crescimento (Base, Solana, L2s)
 - Campanhas de pontos
-- Sistemas de ranking público
+- Sistemas de ranking público 
 
 Motivo:
 Early users recebem maior alocação em airdrops.
