@@ -48,3 +48,6 @@ See `/logs` directory for weekly breakdown.
 ## 🚀 Status
 
 Active and continuously updated.
+
+## 📅 Latest Activity
+See: /logs/2026-02-week1.md
